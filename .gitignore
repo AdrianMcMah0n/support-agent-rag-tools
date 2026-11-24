@@ -1,0 +1,7 @@
+data/store.db
+data/kb_index.json
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.env
